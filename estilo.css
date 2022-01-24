@@ -1,0 +1,87 @@
+*{
+    font-family: panconqueso;
+    font-size:x-large;
+	color: black;
+
+
+    
+}
+
+	
+@font-face {
+    font-family: panconqueso;
+    src: url(Comfortaa-VariableFont_wght.ttf);
+	color: black;
+}
+header li:hover{
+	background-color: aquamarine;
+	transition: .9s;
+}
+header li:active{
+	color:aquamarine
+	
+}
+
+
+
+header li{
+	display: inline-block;
+	padding: 1em;
+}
+header a , li{
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+header li:hover{
+	background: #9ec2f1;
+}
+
+header, footer {
+    background-color: #99afdf;
+}
+header ul{
+	list-style: none;
+	text-align: center;
+}
+nav h1{
+text-align: center;	
+color:#99afdf ;
+font-size: larger;
+}
+article p{
+	text-align: left;
+}
+article h2 ,p{
+text-align: left;
+text-align-last: left;
+color: black;
+
+}
+
+aside img{
+	border-image: 20px;
+	border-color: #99afdf;
+	border-style: dotted;
+}
+footer{
+	border: none;
+	
+}
+article p{
+	color: black;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
